@@ -1,0 +1,17 @@
+table{
+    border-collapse: collapse;
+}
+td, th{
+    text-align: center;
+    padding: 5px;
+}
+td{
+    border: solid #ddd 1px;
+}
+th{
+    background: #ddd;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
