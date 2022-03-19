@@ -14,7 +14,7 @@ function getReposData($repos, $apiHelper): array{
             'contributors' => $numberOfContributors
         ];
         $i++;
-        if($i > 3) break;
+        if($i > 4) break;
     }
     return $reposData;
 }
